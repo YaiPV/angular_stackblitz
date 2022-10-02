@@ -1,0 +1,8 @@
+.container-fluid {
+  background-color: red;
+  color: white;
+  text-align: center;
+  height: 15vh;
+  font-size: xx-large;
+  padding-top: 5vh;
+}

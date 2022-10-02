@@ -1,0 +1,10 @@
+.main {
+  height: 80vh;
+  align-items: center;
+  font-size: xx-large;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+}
